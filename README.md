@@ -5,9 +5,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58a6ff¢er=true&vCenter=true&width=500&lines=%23include+%3Cstdio.h%3E;int+main%28%29%7Bprintf(%22biography%22%29;return+0;%7D;Computer+Engineering+Student;from+Istanbul%2C+Turkiye" alt="typing svg" />
-</div>
 
 ## About Me
 
