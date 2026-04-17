@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=semyhist&label=Profile%20views&color=79c0ff&style=flat" />
   <h1>Hi there, I'm Semih! 👋</h1>
@@ -93,4 +93,3 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=semyhist&label=Profile%20views&color=79c0ff&style=flat" />
 </div>
-```
