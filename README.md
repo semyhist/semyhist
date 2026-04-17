@@ -43,6 +43,7 @@ int main() {
 | [Fidan Sigorta](https://fidansigorta.netlify.app) | Responsive insurance company website | HTML/CSS |
 | [pilotguessr](https://github.com/semyhist/pilotguessr) | Web-based pilot knowledge quiz game | CSS/JS |
 | [telemetrysim](https://github.com/semyhist/telemetrysim) | Data simulation software | C |
+| [Öğretmen Not Giriş Sistemi](https://github.com/semyhist/-retmen-Not-Giri-Sistemi) | Teacher grade entry system | C |
 
 ---
 
